@@ -26,3 +26,6 @@ proj/
 ```
 
 Please see each subfolder for a README file.
+
+If you have any problem about this project code, feel free to contact me please.
+Email:kw2875@columbia.edu
